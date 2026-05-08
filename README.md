@@ -35,13 +35,13 @@ HTML5 Canvas task to create an interactive drawing application that allows users
 
 ## Empty Canvas
 
-![Empty Canvas](Screenshot 2026-05-08 150921.png)
+![Empty Canvas](empty-canvas.png)
 
 ---
 
 ## Drawing Example
 
-![Drawing Example](Screenshot 2026-05-08 151356.png)
+![Drawing Example](drawing-example.png)
 
 ---
 
